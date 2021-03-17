@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PetStore
+comment1.params=name\ adress
+comment1.target=PetStore(java.lang.String,\ java.lang.String)
+comment2.params=animalToAdd
+comment2.target=void\ addAnimal(Animal)
+comment3.params=
+comment3.target=void\ listAnimals()
+comment4.params=priceLimit
+comment4.target=void\ animalsUnderPrice(int)
+comment5.params=species
+comment5.target=void\ searchAnimal(java.lang.String)
+numComments=6

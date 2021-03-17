@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=species\ price\ name\ year\ month\ day
+comment1.target=Animal(java.lang.String,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ printDetails()
+comment4.params=
+comment4.target=java.lang.String\ getSpecies()
+comment5.params=
+comment5.target=java.lang.String\ getBirthday()
+comment6.params=
+comment6.target=int\ getPrice()
+comment7.params=newPrice
+comment7.target=void\ setPrice(int)
+numComments=8
